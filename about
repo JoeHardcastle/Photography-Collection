@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>About</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Tulen Photography HTML Template">
+	<meta name="keywords" content="photo, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="./static/assets/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="./static/assets/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="./static/assets/css/themify-icons.css"/>
+	<link rel="stylesheet" href="./static/assets/css/accordion.css"/>
+	<link rel="stylesheet" href="./static/assets/css/owl.carousel.min.css"/>
+
+	<!-- Main Stylesheets -->
+	<link rel="stylesheet" href="./static/assets/css/style.css"/>
+
+
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Offcanvas Menu Section -->
+	<div class="menu-wrapper">
+		<div class="menu-switch">
+			<i class="ti-menu"></i>
+		</div>
+		<div class="menu-social-warp">
+			<div class="menu-social">
+<!--				<a href="#"><i class="ti-facebook"></i></a>-->
+<!--				<a href="#"><i class="ti-twitter-alt"></i></a>-->
+<!--				<a href="#"><i class="ti-linkedin"></i></a>-->
+<!--				<a href="#"><i class="ti-instagram"></i></a>-->
+			</div>
+		</div>
+	</div>
+	<div class="side-menu-wrapper">
+		<div class="sm-header">
+			<div class="menu-close">
+				<i class="ti-arrow-left"></i>
+			</div>
+<!--			<a href="index.html" class="site-logo">-->
+<!--				<img src="img/froghead.png" alt="">-->
+<!--			</a>-->
+		</div>
+		<nav class="main-menu">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about.html" class="active">About</a></li>
+				<li><a href="/gallery.html">Gallery</a></li>
+<!--				<li><a href="/blog">Blog</a></li>-->
+				<li><a href="/contact.html">Contact</a></li>
+			</ul>
+		</nav>
+		<div class="sm-footer">
+<!--			<div class="sm-social">-->
+<!--				<a href="#"><i class="ti-facebook"></i></a>-->
+<!--				<a href="#"><i class="ti-twitter-alt"></i></a>-->
+<!--				<a href="#"><i class="ti-linkedin"></i></a>-->
+<!--				<a href="#"><i class="ti-instagram"></i></a>-->
+<!--			</div>-->
+			<div class="copyright-text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p></div>
+		</div>
+	</div>
+	<!-- Offcanvas Menu Section end -->
+
+	<!-- About Section end -->
+	<section class="about-section">
+		<div class="about-warp">
+			<div class="about-left">
+				<div class="about-img">
+					<img src="./static/assets/img/hero/me.jpg" alt="">
+				</div>
+				<div class="profile-text text-white">
+<!--					<h2>Hello!</h2>-->
+					<h2><strong>My name is Joe Hardcastle</strong></h2>
+					<p>On display here is a selection from my photography collection. The bulk of the work here was taken from my frequent trips to India, which is where I have more time and leisure to live through the lens than when at home. On the road, I always have the camera at my side and as I wander through the cities and jungles, the subjects become more and more varied. People. Places. Things.</p>
+					<a href="/contact.html" class="profile-btn">Contact me</a>
+					<a href="#" class="profile-email">jhrdcstl77@gmail.com</a>
+				</div>
+			</div>
+			<div class="about-right">
+				<div class="about-text">
+					<h2>About Me</h2>
+					<p>My photography has developed throughout the years, starting with a simple digital camera. Adding a bit here and there over the years and studying the basics, I have become more and more confident in getting the image as I see it when I am there.</p>
+					<p>My love of nature is what prompted me to start taking photography more serious as my early shots were merely records of having been there as opposed to an artistic embellishment of an occasion with wildlife.</p>
+					<p>Having worked on animal tracking projects, taking photos on the downtime has also been a great distraction to the boredom that one can face waiting 12 days for a snake to move its position. It can also stave off jungle fever, which can easily be brought on by the repetitive racket of insects. </p>
+					<p>As I'm not a schooled photographer, I haven't been educated in a particular style, nor have I studied the photographic greats. I have just learned on the hoof, picking a little up as I go and hoping for the best for each shot. All the photos you see here have been mere split-second improvisations. </p>
+					<p>If you require my photography for any occasion, or you would like to discuss about the future exhibitions/books, then please drop me an email.  </p>
+					<p>Blah, blah, blah...</p>
+					<p>* That said, I do hope you enjoy these pictures. A lot of blood, sweat and tears went into making them possible.</p>
+<!--					<h2 class="pt-5">My Skills</h2>-->
+<!--				</div>-->
+<!--				<div class="skill-warp text-center">-->
+<!--					<div class="row">-->
+<!--						<div class="col-lg-3 col-sm-6">-->
+<!--							<div class="circle-item">-->
+<!--								<div class="circle-progress" data-cpid="id-1" data-cpvalue="90" data-cpcolor="#2916e0"></div>-->
+<!--								<h4>Photoshop</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-lg-3 col-sm-6">-->
+<!--							<div class="circle-item">-->
+<!--								<div class="circle-progress" data-cpid="id-2" data-cpvalue="95" data-cpcolor="#2916e0"></div>-->
+<!--								<h4>Make Up</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-lg-3 col-sm-6">-->
+<!--							<div class="circle-item">-->
+<!--								<div class="circle-progress" data-cpid="id-3" data-cpvalue="80" data-cpcolor="#2916e0"></div>-->
+<!--								<h4>Fashion</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-lg-3 col-sm-6">-->
+<!--							<div class="circle-item">-->
+<!--								<div class="circle-progress" data-cpid="id-4" data-cpvalue="85" data-cpcolor="#2916e0"></div>-->
+<!--								<h4>Photography</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
+	</section>
+	<!-- About Section end -->
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="./static/assets/js/vendor/jquery-3.2.1.min.js"></script>
+	<script src="./static/assets/js/bootstrap.min.js"></script>
+	<script src="./static/assets/js/owl.carousel.min.js"></script>
+	<script src="./static/assets/js/imagesloaded.pkgd.min.js"></script>
+	<script src="./static/assets/js/isotope.pkgd.min.js"></script>
+	<script src="./static/assets/js/jquery.nicescroll.min.js"></script>
+	<script src="./static/assets/js/circle-progress.min.js"></script>
+	<script src="./static/assets/js/pana-accordion.js"></script>
+	<script src="./static/assets/js/main.js"></script>
+
+	</body>
+</html>

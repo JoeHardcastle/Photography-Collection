@@ -1,0 +1,3923 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<title>Gallery</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Tulen Photography HTML Template">
+	<meta name="keywords" content="photo, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="./static/assets/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="./static/assets/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="./static/assets/css/themify-icons.css"/>
+	<link rel="stylesheet" href="./static/assets/css/accordion.css"/>
+	<link rel="stylesheet" href="./static/assets/css/fresco.css"/>
+	<link rel="stylesheet" href="./static/assets/css/owl.carousel.min.css"/>
+
+	<!-- Main Stylesheets -->
+	<link rel="stylesheet" href="./static/assets/css/style.css"/>
+
+
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Offcanvas Menu Section -->
+	<div class="menu-wrapper">
+		<div class="menu-switch">
+			<i class="ti-menu"></i>
+		</div>
+		<div class="menu-social-warp">
+			<div class="menu-social">
+<!--				<a href="#"><i class="ti-facebook"></i></a>-->
+<!--				<a href="#"><i class="ti-twitter-alt"></i></a>-->
+<!--				<a href="#"><i class="ti-linkedin"></i></a>-->
+<!--				<a href="#"><i class="ti-instagram"></i></a>-->
+			</div>
+		</div>
+	</div>
+	<div class="side-menu-wrapper">
+		<div class="sm-header">
+			<div class="menu-close">
+				<i class="ti-arrow-left"></i>
+			</div>
+<!--			<a href="index.html" class="site-logo">-->
+<!--				<img src="./static/assets/img/froghead.png" alt="">-->
+<!--			</a>-->
+		</div>
+		<nav class="main-menu">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about.html">About</a></li>
+				<li><a href="/gallery.html" class="active">Gallery</a></li>
+<!--				<li><a href="/blog">Blog</a></li>-->
+				<li><a href="/contact.html">Contact</a></li>
+			</ul>
+		</nav>
+		<div class="sm-footer">
+			<div class="sm-social">
+<!--				<a href="#"><i class="ti-facebook"></i></a>-->
+<!--				<a href="#"><i class="ti-twitter-alt"></i></a>-->
+<!--				<a href="#"><i class="ti-linkedin"></i></a>-->
+<!--				<a href="#"><i class="ti-instagram"></i></a>-->
+			</div>
+			<div class="copyright-text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p></div>
+		</div>
+	</div>
+	<!-- Offcanvas Menu Section end -->
+
+	<!-- Gallery Section end -->
+	<section class="gallery-section">
+		<div class="gallery-header">
+			<h4>Gallery</h4>
+			<ul class="gallery-filter">
+				<li class="filter all active" data-filter="*">All</li>
+				<li class="filter" data-filter=".wildlife">Wildlife</li>
+				<li class="filter" data-filter=".people">People</li>
+				<li class="filter" data-filter=".landscapes">Landscapes</li>
+				<li class="filter" data-filter=".street">Street</li>
+				<li class="filter" data-filter=".action">Action</li>
+			</ul>
+		</div>
+		<div class="nice-scroll">
+			<div class="gallery-warp">
+				<div class="grid-sizer"></div>
+				<div class="gallery-item gi-big wildlife">
+					<a class="fresco" href="./static/assets/img/hero/ratsnake1.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/ratsnake1.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rat Snake</h6>
+						<h6>(Madras, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/camelsafari2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/camelsafari2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Camel safari</h6>
+						<h6>(Maharashtra, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/del11.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/del11.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Family (Delhi, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/leg2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/leg2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The elephant's leg</h6>
+						<h6>(Tamil Nadu, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cyclist2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/cyclist2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cyclist (Varanasi, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/pool2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/pool2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sikh Temple</h6>
+						<h6>(Delhi, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/kodaitrees12.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kodaitrees12.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Trees</h6>
+						<h6>(Kodaikanal, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ferry_2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/ferry_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Boat trippers</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item gi-long street">
+					<a class="fresco" href="./static/assets/img/hero/napoli3.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/napoli3.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Napoli Fans</h6>
+						<h6>(Novara, Italy)</h6>
+					</div>
+				</div>
+				<div class="gallery-item gi-long people">
+					<a class="fresco" href="./static/assets/img/hero/palani2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/palani2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Devotee (Palani, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item gi-big wildlife">
+					<a class="fresco" href="./static/assets/img/hero/climbingfrog2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/climbingfrog2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Gliding Frog (Agumbe, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item gi-big wildlife">
+					<a class="fresco" href="./static/assets/img/hero/draco3.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/draco3.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Draco Lizard (Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/smokingsadhu2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/smokingsadhu2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Saddhu (Haridwar, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hotel2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/hotel2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>A place to stay</h6>
+						<h6>(Madhya Pradesh, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/beeeater2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/beeeater2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bee Eater</h6>
+						<h6>(Gujarat, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item gi-big street">
+					<a class="fresco" href="./static/assets/img/hero/tap2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/tap2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Monsoon Waters (Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/crow2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/crow2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The crow</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/eyes2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/eyes2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Eye Drops (Varkala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/vineeyes2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/vineeyes2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Snake stare</h6>
+						<h6>(Agumbe Rainforest, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/windowview.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/windowview.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>A room with a view</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/vine20232.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/vine20232.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Green Vine Snake</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/taxiboat1_2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/taxiboat1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>40 winks</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/menchilling2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/menchilling2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The day's meeting</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/leaf2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/leaf2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Overlapping chevrons</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/delhidfly2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/delhidfly2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple Dragonfly</h6>
+						<h6>(Delhi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/varkliz2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/varkliz2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Garden Lizard</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hungrygoat2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/hungrygoat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Greedy Goat</h6>
+						<h6>(Ramaswaram, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/relaxedmonk2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/relaxedmonk2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Reading in peace</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/manstairs2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/manstairs2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Quick sit down</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/dog12.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/dog12.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>You ain't seen me!</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/templemakeup2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/templemakeup2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple preparations</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/kodaiflowers2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kodaiflowers2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>In bloom</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/kodaiblue2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kodaiblue2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Festival night</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/bathinglady2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/bathinglady2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bathing</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bodh22.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/bodh22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mahabodhi Temple/h6>
+						<h6>(Bihar, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/kanyakam2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kanyakam2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Greeting the dawn</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/sculptor2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/sculptor2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Resting Sculptor</h6>
+						<h6>(Bombay, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/treefrog2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/treefrog2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tree Frog</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/ferry22.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/ferry22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Family day out</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/cottagekodai2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/cottagekodai2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tranquility</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/forestpalm2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/forestpalm2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>In the plantation</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item gi-long street">
+					<a class="fresco" href="./static/assets/img/hero/coolcat2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/coolcat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Relaxing Mouser</h6>
+						<h6>(Kumily, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cowbike2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/cowbike2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cow and Bike</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/kumilysmoker2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kumilysmoker2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>On Smoko</h6>
+						<h6>(Kerala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/beachrocket2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/beachrocket2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fairground remnants</h6>
+						<h6>(Nalasopora West, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/chicken2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/chicken2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Chicken</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/varkalalizard2_2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/varkalalizard2_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lounge Lizard Larry</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/kanyakguys3.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/kanyakguys3.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Friends</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/malabarsquirrel2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/malabarsquirrel2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Giant Squirrel</h6>
+						<h6>(Kerala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/betta2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/betta2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Betta splendens</h6>
+						<h6>(Maharashtra, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/winkinglizard2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/winkinglizard2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Winking Lizard</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/teresa2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/teresa2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mother Teresa's (Calcutta, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/moonwing2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/moonwing2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Moonwing</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/hungrycow2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/hungrycow2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Greedy Cow</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/okshiva2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/okshiva2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mudra</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/roofpalms2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/roofpalms2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rooftop Palms</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/snakeskin2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/snakeskin2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Snake Skin</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/mysoremonkey2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/mysoremonkey2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cheeky Monkey</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/race1_2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/race1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Giro d'Italia</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/Vassai2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/Vassai2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Vassai Fort</h6>
+						<h6>(Maharashtra, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/peck.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/peck.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Headbanger</h6>
+						<h6>(Uttarakhand, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/madraslizard2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/madraslizard2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lizard in the shade</h6>
+						<h6>(Madras, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/posers2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/posers2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Posers</h6>
+						<h6>(India Gate, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/solartree2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/solartree2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Solar Tree</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/Haridwar2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/Haridwar2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Shiviites</h6>
+						<h6>(Haridwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/catman2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/catman2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Man and cat</h6>
+						<h6>(Ramaswaram, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/streetsmokers2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/streetsmokers2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sly Party ;)</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/horse2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/horse2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Horse in Pomp</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/catsnake2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/catsnake2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cat Snake</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/windowlizard2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/windowlizard2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Gecko in Window</h6>
+						<h6>(Goa, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/firejump2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/firejump2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ring of Fire</h6>
+						<h6>(Kerala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/3faces2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/3faces2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The 3 Kings</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/langur.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/langur.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Langur in the Mist</h6>
+						<h6>(Gujarat, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/deerandbird2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/deerandbird2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Comrades</h6>
+						<h6>(Gujarat, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/munch2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/munch2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>King Cobra Feeding</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/budd2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/budd2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Inner Temple</h6>
+						<h6>(Bodhgaya, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/elegreen2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/elegreen2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fungal Treatment</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/sleepy2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/sleepy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>40 winks</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/kodaiscenery2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kodaiscenery2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hilly Forest</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/lizflower2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lizflower2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bouquet Lizard</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/haridwaram2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/haridwaram2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Haridwar</h6>
+						<h6>(Uttarakhand, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/bubble2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bubble2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Water Butt</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/nightsnake.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nightsnake.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Pit Viper</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/red2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/red2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Red</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/theking2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/theking2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>"You want some!?"</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/alleppey.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/alleppey.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Backwaters</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/narad2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/narad2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ascending and Descending</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/byanose2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/byanose2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>... By a nose</h6>
+						<h6>(Maharashtra, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bidgudmen2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bidgudmen2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Waiting</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/wmill2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/wmill2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Wind Farm</h6>
+						<h6>(Mersey Estuary, England)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/hawk12.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hawk12.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hawkwind</h6>
+						<h6>(Liverpool, England)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/itch.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/itch.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>A good Scratch</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hotel2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hotel2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Torino by Night</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/peacock2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/peacock2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Peacock</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/lion2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lion2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Asiatic Lion</h6>
+						<h6>(Gujarat, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/footy2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/footy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Beach Football</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/dragonflyred2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dragonflyred2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Torrent Dart</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/varkalalizard1_2.jpg" data-fresco-group="projects">
+						<img src="./static/assets/img/hero/varkalalizard1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lizard in the Green</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/treetoad2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/treetoad2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Leech attacking Malabar Tree Toad</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/snakestick2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/snakestick2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Viper on the brush handle</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bathing2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bathing2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bathing at the Har Ki Pauri</h6>
+						<h6>(Haridwar, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bfly3.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bfly3.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Butterfly</h6>
+						<h6>(Liguria, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/toypython2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/toypython2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hiding Python</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/butt2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/butt2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Broken Wing</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/orchid2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orchid2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Orchid</h6>
+						<h6>(Madikeri, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/prayasaddhu2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/prayasaddhu2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sunrise at Sangam Ghat</h6>
+						<h6>(Prayagraj, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/lookup2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lookup2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Things are looking up</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/blue temple2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/blue temple2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The blues and the greys</h6>
+						<h6>(Prayagraj, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/scooter boys2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/scooter boys2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Scooter boys</h6>
+						<h6>(Prayagraj, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/fluffy2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/fluffy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fluff Ball</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bat2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Batman</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/langurpalm2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/langurpalm2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Langur</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/curlyking2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/curlyking2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>King Cobra (Ophiophagus hannah)</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/madraspalms2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/madraspalms2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rural Palms</h6>
+						<h6>(Madras, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/ratsnaketongue2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ratsnaketongue2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rat Snake</h6>
+						<h6>(Madras, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/strike2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/strike2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Strike of the Beast</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/clergy2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/clergy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Offerings</h6>
+						<h6>(Madhya Pradesh, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/gullswim.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gullswim.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Splashing Gull</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/nick2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nick2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Nick Harper</h6>
+						<h6>(Liverpool, England)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ritual2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ritual2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple Ceremony</h6>
+						<h6>(Tenkasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/russell2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/russell2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Russell's Viper</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/2camel.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/2camel.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Beach-side camels</h6>
+						<h6>(Maharashtra, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/wetbird2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/wetbird2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Soaked</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/dip2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dip2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bath Time</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/orange5_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange5_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Citrus Wars</h6>
+						<h6>(Ivrea, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/gelato.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gelato.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Gelateria</h6>
+						<h6>(Torino, Italy)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/ants2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ants2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Take me to your leader</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/kodai12.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kodai12.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Crispness</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bulbul.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bulbul.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Red Whiskered Bulbul</h6>
+						<h6>(Kerala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/nmac.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nmac.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Nilgris Langur</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/russroad2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/russroad2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Russell viper crossing road</h6>
+						<h6>(Maharashtra, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ujjainstall2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ujjainstall2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Snack Bar</h6>
+						<h6>(Ujjain, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/turin2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/turin2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Alps above the city</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/cavefrog2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cavefrog2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cave Dwelling Frog</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bikewhizz2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bikewhizz2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Fast Life</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/sleepdog2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sleepdog2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Let sleeping Dogs Lie</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/orange2_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange2_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Take your aim</h6>
+						<h6>(Ivrea, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/idols2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/idols2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Idols</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cowbin2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cowbin2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Nose Bag</h6>
+						<h6>(Uttarakhand, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/yellowbird.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/yellowbird.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tweetie Pie the Second</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bike2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bike2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The bike stand</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/muscles2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/muscles2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Muscle Bound</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/gull.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gull.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Seagull Swoop</h6>
+						<h6>(Wallasey, England)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/kodaikanal2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kodaikanal2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Downtown</h6>
+						<h6>(Kodaikanal, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/lilac2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lilac2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Quiet Corner</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/smileyman2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/smileyman2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Restaurant Owner</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/haridwarcafe2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/haridwarcafe2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cafe Boss</h6>
+						<h6>(Haridwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/spray2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/spray2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hosepipe Spray</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/route2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/route2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>A to Z</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/dog22.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dog22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ganges Dog</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/gokbeach2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gokbeach2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Beachside</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bgayastatue2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bgayastatue2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Siddartha Guatama</h6>
+						<h6>(Bihar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/station2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/station2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>On the way to Calcutta</h6>
+						<h6>(West Bengal, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/harichandra2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/harichandra2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cremation Ghat</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/greenbutter2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/greenbutter2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mint Green</h6>
+						<h6>(Uttarakhand, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/barbar2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/barbar2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Neon Bar Signs</h6>
+						<h6>(Torino, Italy)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/eles2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/eles2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Elephants</h6>
+						<h6>(Sringeri Temple, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ujjainred2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ujjainred2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Evening Stroll</h6>
+						<h6>(Ujjain, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/fire12.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/fire12.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fire starter</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/drum2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/drum2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Drummers</h6>
+						<h6>(Madurai, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/haputale2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/haputale2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sky Buddha</h6>
+						<h6>(Mihintale, Sri Lanka)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/shivalizard2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/shivalizard2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Kangaroo Lizard at Shiva shrine</h6>
+						<h6>(Nilaveli, Sri Lanka)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/colombo2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/colombo2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Pettah Markets</h6>
+						<h6>(Colombo, Sri Lanka)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/fishon2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/fishon2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fishermen</h6>
+						<h6>(Nalasopora West, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/coffee2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/coffee2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Kumily Gate Hotel</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/toad2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/toad2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Leech attacking Malabar flying toad</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/crabs2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/crabs2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mangrove Crabs</h6>
+						<h6>(West Bengal, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/langurfence2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/langurfence2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Up the 'Aris</h6>
+						<h6>(Anuradhapura, Sri Lanka) </h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/leap2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/leap2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Flying Monkey</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/thefair2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/thefair2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Maa Mansa Devi Temple</h6>
+						<h6>(Haridwar, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/monks2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/monks2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Shopping Monks</h6>
+						<h6>(Bihar, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/leafinsect2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/leafinsect2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Useless camouflage</h6>
+						<h6>(Karnataka, Inda)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/greyagumbe2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/greyagumbe2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Pea soup</h6>
+						<h6>(Agumbe, India)</h6>
+						
+					</div>
+				</div>
+
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/sitar2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sitar2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Giant sitar</h6>
+						<h6>(Ayodhya, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/shrine2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/shrine2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Small shrine</h6>
+						<h6>(Nalasopora West, Bombay)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/nashikbus2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nashikbus2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rickety bus ride back from Nashik</h6>
+						<h6>(Maharashtra, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/dragon.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dragon.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Dragonfly</h6>
+						<h6>(Western Ghats, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/crowsatsea.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/crowsatsea.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Crows at sea</h6>
+						<h6>(Fort Cochin, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/dinner2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dinner2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Dinner</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ship2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ship2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Finally, my ship comes in</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/rainbow2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/rainbow2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rainbow over Varanasi</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/tricycle2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tricycle2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Man on tricycle</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/sacredturf.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sacredturf.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Luscious rice field</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/lizardhang2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lizardhang2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lizardness</h6>
+						<h6>(Bombay, India)</h6>
+
+					</div>
+				</div>
+
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bums.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bums.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>21 bum salute</h6>
+						<h6>(Uttarakhand, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/red temple2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/red temple2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Red Temple</h6>
+						<h6>(Varanasi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/takeoff2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/takeoff2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Launch of the bat</h6>
+						<h6>(Bombay, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/race2_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/race2_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Giro d'Italia</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/onthecorner2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/onthecorner2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Man on the corner</h6>
+						<h6>(Nalasopra West, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/kanyaksign2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kanyaksign2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Which destination?</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/deer2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/deer2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Oh deer!</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bar2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bar2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ales this way</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/cow_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cow_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cud chewing</h6>
+						<h6>(Vagamon, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/camel2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/camel2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Camel attitude</h6>
+						<h6>(Alwar City, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/toads2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/toads2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Toad family</h6>
+						<h6>(Bombay, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/dogkecks2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dogkecks2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>How much is that doggie in the window?</h6>
+						<h6>(Alwar City, Rajasthan)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bats2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bats2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Our wings are like shields of steel</h6>
+						<h6>(Shiva Cave, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/sikh2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sikh2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Kind Gentleman</h6>
+						<h6>(Alwar City, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/parakeet2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/parakeet2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Parakeet</h6>
+						<h6>(Alwar City, Rajasthan)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/nigrillangur.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nigrillangur.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Nilgri Langhur</h6>
+						<h6>(Kumily, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/nashikbf2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/nashikbf2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Urban butterfly</h6>
+						<h6>(Nashik, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/tfrog_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tfrog_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar flying frog</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/hawk22.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hawk22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hawkwind</h6>
+						<h6>(Liverpool, England)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/alwar2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/alwar2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Royal Palace</h6>
+						<h6>(Alwar City, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/lights2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lights2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>All the better to see you with</h6>
+						<h6>(Kumily, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/hornbill.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hornbill.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Grey Hornbill</h6>
+						<h6>(Agumbe, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/horns2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/horns2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Back street longhorn</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/frogsac.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/frogsac.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Calling for a mate</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/pitviper2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/pitviper2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Pit Viper (Juvenile)</h6>
+						<h6>(Agumbe, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ujjain1_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ujjain1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>6am Festivities</h6>
+						<h6>(Ujjain, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/palanitown2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/palanitown2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Palani town</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/snakebabu2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/snakebabu2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Local snake catcher</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/treetoad2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/treetoad2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Leech attacking Malabar flying toad</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/vinesnakeday2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/vinesnakeday2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Green Vine Snake</h6>
+						<h6>(Karanataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/treesup2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/treesup2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Arboreal Splendour</h6>
+						<h6>(Kodaikanal, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/medicine2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/medicine2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Medicine Man</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hcghat2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hcghat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Harishchandra Ghat</h6>
+						<h6>(Varanasi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/forestbat2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/forestbat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sheltering from the rains</h6>
+						<h6>(Karnataka, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/2ladies.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/2ladies.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>2 ladies in green</h6>
+						<h6>(Gujarat, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/cormorant2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cormorant2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fish on!</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bronze2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bronze2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bronze Back Snake</h6>
+						<h6>(Madras, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/sweep2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sweep2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Cleaning the temple</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/kingy2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kingy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>First encounter with the King Cobra</h6>
+						<h6>(Karanataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/orange6_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange6_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Well and truly hit</h6>
+						<h6>(Ivrea, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/caterpiller2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/caterpiller2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Monsoon Caterpillar</h6>
+						<h6>(Western Ghats, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/kumily.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kumily.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Rainy Day</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/teas2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/teas2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tea for 4</h6>
+						<h6>(Varkala Beach, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/sparrow2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sparrow2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sparrows in the blue</h6>
+						<h6>(Munnar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/mynah2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mynah2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mynah Bird</h6>
+						<h6>(Rajasthan, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/munk2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/munk2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ready to leap...</h6>
+						<h6>(Haridwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/pidge2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/pidge2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Pigeon Party</h6>
+						<h6>(Rajasthan, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/drac2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/drac2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Draco Lizard</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/orangeman2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orangeman2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Gujarati Man (Ahmedabad, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/rishikesh2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/rishikesh2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Red, Orange and Yellow</h6>
+						<h6>(Rishikesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/ujjaintea2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ujjaintea2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tea Stand</h6>
+						<h6>(Ujjain, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/king20232.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/king20232.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The forked tongue</h6>
+						<h6>(Kudremuch, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/redtail2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/redtail2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sweet Lizard</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hose2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hose2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hose down</h6>
+						<h6>(Ujjain, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/coconuts2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/coconuts2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Not shy of coconuts</h6>
+						<h6>(Tamil Nadu, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/drive2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/drive2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Evening Cruise</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ll22.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ll22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Oooooooh! Right there...</h6>
+						<h6>(New Brighton, England)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/boatman2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/boatman2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Boat Man</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/prayer2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/prayer2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Prayers in Orange</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/familystairs2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/familystairs2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Family on Steps</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bug2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bug2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bug eyes</h6>
+						<h6>(Agumbe, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/froggy2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/froggy2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Frog at Night</h6>
+						<h6>(Agumbe, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/russ2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/russ2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Russell's Viper</h6>
+						<h6>(Madras, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/man2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/man2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Shop Keeper</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+					<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/shivacar2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/shivacar2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Good evening, Lord Shiva</h6>
+							<h6>(Prayagraj, India)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/liz2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/liz2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Low Rider</h6>
+						<h6>(Western Ghats, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/jack the lads2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/jack the lads2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Jack the lads</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/turtle2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/turtle2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tommy the Turtle</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/head2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/head2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Upside down</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/counter2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/counter2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple Counter</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/lady2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/lady2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Beauty and the Beast</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/camelz2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/camelz2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Evening camel ride</h6>
+						<h6>(Prayagraj, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/invbike2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/invbike2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Night Rider</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/beach2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/beach2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Land's End</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/ritz2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ritz2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Putting on the Ritz!</h6>
+						<h6>(Kerala, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/mouser2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mouser2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tom finally gets Jerry</h6>
+						<h6>(Kerala, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/walk2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/walk2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Road to Haridwar</h6>
+						<h6>(Uttarakhand, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/mysore_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mysore_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mysore Bus Stand</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/templerest2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/templerest2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Relaxing at the temple</h6>
+						<h6>(Ayodhya, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/giraffe2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/giraffe2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Giraffe</h6>
+						<h6>(Piedmont, Italy)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ganges22.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ganges22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Resting by the Ganges</h6>
+						<h6>(Haridwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cuttatax2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cuttatax2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bengal Taxi</h6>
+						<h6>(Calcutta, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/saddhu_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/saddhu_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Saddhu</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ayod2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ayod2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Blue sky Shiva</h6>
+						<h6>(Ayodhya, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/thrush2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/thrush2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Malabar Whistling Thrush</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/waiting2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/waiting2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Waiting to board</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cow22.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cow22.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Beach Cow</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/tv2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tv2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Telly Savalas</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ganges1_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ganges1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>On the Lookout</h6>
+						<h6>(Varanasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/flower2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/flower2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bloomin' Marvellous</h6>
+						<h6>(Haryana, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/orangenights2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orangenights2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Orange tinged nights</h6>
+						<h6>(Ayodhya, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bodh32.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bodh32.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bodhi tree</h6>
+						<h6>(Bihar, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/birdy.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/birdy.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hairy Canary</h6>
+						<h6>(Agumbe, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/hanuman2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/hanuman2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Hanuman</h6>
+						<h6>(Uttarakhand, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/liam2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/liam2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>SiiiiiTTT!</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/mysore2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mysore2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Man and boy</h6>
+						<h6>(Mysore, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/tern2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tern2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Gull in Flight</h6>
+						<h6>(Torino, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/mass2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mass2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Outdoor Mass</h6>
+						<h6>(Piemonte, Italy)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/mirror2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mirror2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Reflection in a Pool</h6>
+						<h6>(Karnataka, India)</h6>
+
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/madmirror2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/madmirror2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mirrored Temple</h6>
+						<h6>(Madurai, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/temple_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/temple_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple Facade</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/temple2_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/temple2_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Blue Dream</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/moo2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/moo2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Moooo!!</h6>
+						<h6>(Andhra Pradesh, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/ladies2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ladies2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Ladies on Bus</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/cobra2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cobra2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Freeing the Cobra (Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/pallady2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/pallady2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lady at Temple</h6>
+						<h6>(Palani, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/orange_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Outside the temple</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/church2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/church2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Electrical Church</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/dusk2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/dusk2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Dusk</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/chaat2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/chaat2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Snack Time</h6>
+						<h6>(Varanasi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/mooo2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/mooo2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Lazy cows!</h6>
+						<h6>(Varanasi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/band2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/band2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Temple Band</h6>
+						<h6>(Tenkasi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/purple2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/purple2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tamil Lady</h6>
+						<h6>(Tenkasi, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/monsoon2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/monsoon2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Southbound</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/store2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/store2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Bargain Bazaar</h6>
+						<h6>(Madurai, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/tea2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tea2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Infinitea</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/gull2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gull2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sunset Gull</h6>
+						<h6>(Wallasey, England)</h6>
+					</div>
+				</div>
+				<div class="gallery-item action">
+					<a class="fresco" href="./static/assets/img/hero/menage2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/menage2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Menage a trois (Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/pkok2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/pkok2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Peacock</h6>
+						<h6>(Gujarat, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/gujarat.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/gujarat.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Gujarati Gent</h6>
+						<h6>(Ahmedabad, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/monkeygate2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/monkeygate2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Waiting for me outside</h6>
+							<h6>(Ayodhaya, India)</h6>
+
+						</div>
+
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/opposite2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/opposite2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Opposite Directions</h6>
+						<h6>(Madhya Pradesh, India)</h6>
+						
+					</div>
+				</div>
+
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/revere2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/revere2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Morning greeting</h6>
+						<h6>(Ujjain, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/cops2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/cops2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Back Up Prayer</h6>
+						<h6>(Madurai, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/ele2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/ele2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Trumpeting Taxi</h6>
+						<h6>(Ujjain, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/delhi2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/delhi2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Roundabout</h6>
+						<h6>(Delhi, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/window2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/window2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Family by Window</h6>
+						<h6>(Rajasthan, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/kfish.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/kfish.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Kingfisher (Madras, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/bus2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bus2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Waiting for the bus</h6>
+						<h6>(Danushkodi, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/orange3_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange3_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Horse Whisperer</h6>
+						<h6>(Ivrea, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/barber2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/barber2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Anything for the weekend?</h6>
+						<h6>(Calcutta, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/tarant2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tarant2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Tarantula</h6>
+						<h6>(Karnataka, India)</h6>
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/tall2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/tall2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Soaring Gopuram</h6>
+						<h6>(Murdeshwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/python2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/python2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Python</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/eagle2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/eagle2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Crystal Silence</h6>
+						<h6>(Kerala, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/varanaarti2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/varanaarti2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Nightly devotions</h6>
+						<h6>(Uttar Pradesh, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/bfly.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/bfly.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fluttering Zebra</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/prayinghands2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/prayinghands2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Praying Hands</h6>
+						<h6>(Varanasi, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/driver2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/driver2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Fowards and Backwards</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/buddhasign2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/buddhasign2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Signpost of Wisdom</h6>
+						<h6>(Sarnath, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item landscapes">
+					<a class="fresco" href="./static/assets/img/hero/sunset2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/sunset2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Sundown</h6>
+						<h6>(Kanyakamuri, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/orange1_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange1_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Proud as peacocks</h6>
+						<h6>(Ivrea, Italy)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/shopkeepers2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/shopkeepers2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Shop Keepers</h6>
+						<h6>(Prayagraj, India)</h6>
+
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/selfie2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/selfie2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Mutual Photography</h6>
+						<h6>(Tamil Nadu, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item people">
+					<a class="fresco" href="./static/assets/img/hero/orange4_2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/orange4_2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>The Casual Observer</h6>
+						<h6>(Ivrea, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/white2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/white2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Men in White</h6>
+						<h6>(Karnataka, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/food2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/food2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Full up</h6>
+						<h6>(Haridwar, India)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item street">
+					<a class="fresco" href="./static/assets/img/hero/prom2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/prom2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Promenade</h6>
+						<h6>(Liguria, Italy)</h6>
+						
+					</div>
+				</div>
+				<div class="gallery-item wildlife">
+					<a class="fresco" href="./static/assets/img/hero/rstart2.jpg" data-fresco-group="projects">
+
+						<img src="./static/assets/img/hero/rstart2.jpg" alt="">
+					</a>
+					<div class="gi-hover">
+						<h6>Black Redstart</h6>
+						<h6>(Torino, Italy)</h6>
+					</div>
+				</div>
+
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/roofliz2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/roofliz2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Wall Lizard</h6>
+							<h6>(Liguria, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/napfans.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/napfans.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Napoli Fans</h6>
+							<h6>(Novara, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/hump2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/hump2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Hump-Nosed Lizard</h6>
+							<h6>(Sinharaja Forest, Sri Lanka)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/squirrel2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/squirrel2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Squirrel at Dawn</h6>
+							<h6>(Torino, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item people">
+						<a class="fresco" href="./static/assets/img/hero/ladyharidwar2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/ladyharidwar2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Lady at Shivratra, 2022</h6>
+							<h6>(Haridwar, India)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item action">
+						<a class="fresco" href="./static/assets/img/hero/johnp2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/johnp2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>John Pattitucci Trio</h6>
+							<h6>(Genova, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item landscapes">
+						<a class="fresco" href="./static/assets/img/hero/genova2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/genova2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Genova Marina</h6>
+							<h6>(Genova, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/dolph.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/dolph.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Dolphins</h6>
+							<h6>(Liguria, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/neon_2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/neon_2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Neon Synergy</h6>
+							<h6>(Torino, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/bfly2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/bfly2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Butterfly at the Golden Hour</h6>
+							<h6>(Liguria, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item action">
+						<a class="fresco" href="./static/assets/img/hero/marco2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/marco2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Live Psychedelic Art</h6>
+							<h6>(Piedmont, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item people">
+						<a class="fresco" href="./static/assets/img/hero/saddhu2_2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/saddhu2_2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Saddhu</h6>
+							<h6>(Prayagraj, India)</h6>
+						</div>
+
+				</div>
+
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/streetpalm2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/streetpalm2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Riviera Palms</h6>
+							<h6>(Liguria, Italy)</h6>
+							
+						</div>
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/face2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/face2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Off Face</h6>
+							<h6>(Torino, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/neon2_2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/neon2_2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Lighting up the Day</h6>
+							<h6>(Torino, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/yellow2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/yellow2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Yellow and Black</h6>
+							<h6>(Piemont, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item action">
+						<a class="fresco" href="./static/assets/img/hero/fish2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/fish2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Fisherman's Chronicles</h6>
+							<h6>(Piedmont, Italy)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item people">
+						<a class="fresco" href="./static/assets/img/hero/mancow2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/mancow2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Saddhu and cow</h6>
+							<h6>(Uttar Pradesh, India)</h6>
+
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/gopal2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/gopal2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Gopal</h6>
+							<h6>(Ayodhaya, India)</h6>
+
+						</div>
+
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/ram2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/ram2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Jai Shree Ram</h6>
+							<h6>(Ayodhaya, India)</h6>
+
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/robin2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/robin2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Robin</h6>
+							<h6>(Torino, Italy)</h6>
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/liontail3.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/liontail3.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Lion Tail Macaque (Endangered)</h6>
+							<h6>(Kerala, India)</h6>
+
+						</div>
+
+				</div>
+				<div class="gallery-item street">
+						<a class="fresco" href="./static/assets/img/hero/ll_2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/ll_2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>The Roar of the Lion</h6>
+							<h6>(New Brighton, England)</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/lizardpark2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/lizardpark2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Springtime Lizard</h6>
+							<h6>(Torino, Italy</h6>
+							
+						</div>
+
+				</div>
+				<div class="gallery-item wildlife">
+						<a class="fresco" href="./static/assets/img/hero/fox2.jpg" data-fresco-group="projects">
+
+							<img src="./static/assets/img/hero/fox2.jpg" alt="">
+						</a>
+						<div class="gi-hover">
+							<h6>Fantastic Mr Fox</h6>
+							<h6>(Wallasey, England)</h6>
+							
+						</div>
+
+				</div>
+
+			</div>
+		</div>
+</section>
+	<!-- Gallery Section end -->
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="./static/assets/js/vendor/jquery-3.2.1.min.js"></script>
+	<script src="./static/assets/js/bootstrap.min.js"></script>
+	<script src="./static/assets/js/owl.carousel.min.js"></script>
+	<script src="./static/assets/js/imagesloaded.pkgd.min.js"></script>
+	<script src="./static/assets/js/isotope.pkgd.min.js"></script>
+	<script src="./static/assets/js/jquery.nicescroll.min.js"></script>
+	<script src="./static/assets/js/circle-progress.min.js"></script>
+	<script src="./static/assets/js/pana-accordion.js"></script>
+	<script src="./static/assets/js/fresco.min.js"></script>
+	<script src="./static/assets/js/main.js"></script>
+
+	</body>
+</html>
